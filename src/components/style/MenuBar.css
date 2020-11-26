@@ -1,0 +1,21 @@
+.header {
+  display: flex;
+  align-items: center;
+  min-height: 5%;
+  background-color: #563d7c;
+  color: #fff;
+}
+.header__logo {
+  margin-left: 8%;
+  font-size: 2rem;
+  text-transform: uppercase;
+}
+.header__menu {
+  flex-grow: 1;
+}
+.header__menu-list {
+  display: flex;
+  justify-content: flex-end;
+  list-style: none;
+  margin-right: 3%;
+}

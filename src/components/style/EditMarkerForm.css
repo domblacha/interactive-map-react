@@ -1,0 +1,30 @@
+.marker-edit-form {
+  display: flex;
+  height: 25rem;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+}
+.marker-edit-input {
+  width: 100%;
+  flex-basis: 3rem;
+  font-size: 1.5rem;
+}
+.marker-edit-ta {
+  width: 100%;
+  flex-basis: 12rem;
+  font-size: 1.5rem;
+}
+.marker-edit-label {
+  font-size: 1.5rem;
+}
+.marker-edit-btn {
+  width: 10rem;
+  height: 2rem;
+  margin-bottom: 1rem;
+  font-size: 1.5rem;
+  background-color: #563d7c;
+  color: #fff;
+  border: none;
+  border-radius: 5%;
+}

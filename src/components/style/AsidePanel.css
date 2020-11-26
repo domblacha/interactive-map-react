@@ -1,0 +1,29 @@
+.info {
+  position: absolute;
+  top: 5%;
+  left: -25%;
+  width: 25%;
+  height: 95vh;
+  background-color: #fff;
+  transition: 0.7s;
+}
+.info--active {
+  left: 0;
+}
+.info__close-btn {
+  position: absolute;
+  right: 1rem;
+  top: 1rem;
+  width: 10rem;
+  height: 2.5rem;
+  background-color: #563d7c;
+  color: #fff;
+  border: none;
+  border-radius: 5%;
+}
+.info__title {
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 70px;
+  color: #563d7c;
+}

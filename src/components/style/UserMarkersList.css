@@ -1,0 +1,37 @@
+.marker-container {
+  width: 70%;
+  margin: 1rem auto 0 auto;
+  background-color: #fff;
+}
+.marker-items {
+  text-align: center;
+}
+.marker-name {
+  font-size: 2rem;
+}
+.marker-desc {
+  font-size: 1.5rem;
+}
+.marker-desc-title {
+  font-size: 1.5rem;
+}
+.marker-rate {
+  text-align: center;
+  font-size: 2rem;
+}
+.marker-btns {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: 0 auto;
+  padding: 1rem;
+}
+.marker-btn {
+  width: 11rem;
+  height: 2rem;
+  font-size: 1.3rem;
+  background-color: #563d7c;
+  color: #fff;
+  border: none;
+  border-radius: 5%;
+}

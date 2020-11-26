@@ -1,0 +1,32 @@
+.add-marker-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  height: 70rem;
+  margin-top: 5rem;
+}
+.add-marker-label {
+  font-size: 1.7rem;
+}
+.add-marker-input {
+  flex-basis: 4rem;
+  width: 95%;
+  font-size: 1.5rem;
+}
+.add-marker-ta {
+  flex-basis: 30rem;
+  width: 95%;
+  font-size: 1.6rem;
+}
+.add-marker-select {
+  font-size: 1.8rem;
+}
+.add-marker-btn {
+  width: 15rem;
+  flex-basis: 3rem;
+  background-color: #563d7c;
+  color: #fff;
+  border: none;
+  border-radius: 5%;
+}

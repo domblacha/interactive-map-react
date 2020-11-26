@@ -1,0 +1,13 @@
+.header__menu-item {
+  margin-right: 1%;
+}
+.header__menu-link {
+  padding: 0.8rem;
+  font-size: 1.7rem;
+  color: #fff;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.header__menu-link:hover {
+  color: #959191;
+}

@@ -1,0 +1,8 @@
+.marker {
+  font-size: 4rem;
+  color: rgb(218, 32, 7);
+}
+.marker:hover {
+  cursor: pointer;
+  color: rgb(207, 29, 6);
+}

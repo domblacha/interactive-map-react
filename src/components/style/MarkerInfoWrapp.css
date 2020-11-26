@@ -1,0 +1,85 @@
+.comment-info {
+  position: absolute;
+  top: 7%;
+  right: 4%;
+  min-height: 70%;
+  max-height: 95vh;
+  width: 20%;
+  padding: 1rem;
+  background-color: #fff;
+  border-radius: 3%;
+}
+.comment-info__title {
+  margin-top: 1rem;
+  text-align: center;
+  font-size: 1.3rem;
+}
+.comment-info__container {
+  font-size: 1.3rem;
+}
+.comment-info__author {
+  font-size: 1.5rem;
+  text-align: right;
+}
+.comment-info__rate {
+  font-size: 1.8rem;
+  text-align: right;
+}
+.comment-info__point-name {
+  margin-top: 2rem;
+  font-size: 2.2rem;
+  text-align: center;
+  color: #563d7c;
+}
+.comment-info__desc-label {
+  margin-top: 1rem;
+}
+.comment-info__desc {
+  overflow-y: scroll;
+  height: 10rem;
+  margin-top: 1rem;
+  font-size: 1.8rem;
+  text-align: justify;
+}
+.comment-info__title-comm {
+  margin-top: 1.8rem;
+  text-align: center;
+  font-size: 1.4rem;
+}
+.comments-container {
+  height: 20rem;
+  margin-top: 1.8rem;
+  overflow-y: scroll;
+}
+.comments {
+  padding: 1rem;
+  margin-top: 1rem;
+  background-color: rgb(230, 230, 230);
+  border-radius: 3%;
+}
+.comments__author {
+  text-align: right;
+  font-size: 1.3rem;
+}
+.comments__rate {
+  text-align: right;
+  font-size: 1.6rem;
+}
+.comments__label {
+  font-size: 1.3rem;
+}
+.comments__desc {
+  font-size: 1.7rem;
+}
+.comments-form {
+  margin-top: 2rem;
+  text-align: center;
+}
+.comments-form__textarea {
+  width: 100%;
+  height: 9rem;
+  margin-top: 1rem;
+}
+.comments-form__label {
+  font-size: 1.5rem;
+}
